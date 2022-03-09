@@ -1,5 +1,6 @@
 # A study on Road Accidents
-Kerala Road Accidents Analysis 
+## Kerala Road Accidents Analysis
+
 Road Accidents in India Data Analysis over the years 2001-2012 and to find the main causes of accidents using Google Colab.
 
 ## Datasets
