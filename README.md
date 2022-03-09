@@ -1,5 +1,5 @@
-# A_study_on_Road_Accidents
-Maharashtra Road Accidents Analysis 
+# A study on Road Accidents
+Kerala Road Accidents Analysis 
 Road Accidents in India Data Analysis over the years 2001-2012 and to find the main causes of accidents using Google Colab.
 
 ## Datasets
@@ -17,8 +17,8 @@ Data Set is Available as free on Government of India Website (https://data.gov.i
 - Causes v/s Number of females who died in Road Accidents.
 - Causes v/s Number of people who died in Road Accidents.
 - Year v/s Number of people who died in Road Accidents.
-- Distribution of males who died in Maharasthra.
-- Causes v/s Number of males who died in Maharasthra Road Accidents.
+- Distribution of males who died in Kerala.
+- Causes v/s Number of males who died in Kerala Road Accidents.
 
 ## Plots used for Visualizations :-
 - BAR Charts
@@ -26,4 +26,4 @@ Data Set is Available as free on Government of India Website (https://data.gov.i
 - Line Plot
 - Heat Maps
 
-## You can add latest data for years after 2012 and can visualize the plots for differents states of India. I have mainly visualize for Maharashtra as I'm the resident of this state, you all are free to visualize for your states too.
+## You can add latest data for years after 2012 and can visualize the plots for differents states of India. The visuals was created for the state of Kerala as I'm the resident of this state, you all are free to visualize for your states too.
